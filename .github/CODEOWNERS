@@ -1,0 +1,22 @@
+# CODEOWNERS — Pega Labs Playwright Tests
+# Automatische review bij veranderingen in tests, page objects, fixtures of config.
+
+# Centrale configuratie (URLs, credentials, selectors, timeouts)
+/config/               @erikvandermade
+
+# Page Objects (POM)
+/pages/                @erikvandermade
+
+# Fixtures & helpers (login, tab-openen, log off)
+/fixtures/             @erikvandermade
+
+# Test specifications
+/tests/                @erikvandermade
+
+# Playwright config & reporters
+playwright.config.ts   @erikvandermade
+package.json           @erikvandermade
+package-lock.json      @erikvandermade
+
+# CI / GitHub Actions
+.github/workflows/     @erikvandermade
