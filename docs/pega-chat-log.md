@@ -1,7 +1,7 @@
 # Chat Log: Pega Labs Login Test
 
 **Datum:** 22 oktober 2025  
-**Project:** playwright-agent (C:/Temp/playwright-agent)  
+**Project:** pega-testing-with-playwright (C:/Temp/playwright-agent)  
 **Doel:** Login-test uitvoeren in Pega Labs omgeving met Playwright
 
 ---
